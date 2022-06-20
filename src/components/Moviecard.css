@@ -1,0 +1,29 @@
+.card{
+    border-style: solid;
+    border-color: rgb(236, 23, 34);
+    width: 500px;
+    margin: 50px;
+    margin-left: 25%;
+    padding: 50px;
+    
+
+}
+.pasmovie{
+    border-style: solid;
+    border-color: rgb(236, 23, 34);
+    width: 500px;
+    margin: 50px;
+    margin-left: 25%;
+    padding: 50px;
+
+}
+.app{
+    background-color: rgb(107, 177, 27);
+    padding: 50px;
+    
+}
+.inputs{
+    display: flex;
+    justify-content: space-between;
+   
+}
